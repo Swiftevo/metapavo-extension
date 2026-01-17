@@ -17,7 +17,7 @@ const BuildInLXDAO = () => {
         fontWeight="bold"
         fontSize={{ md: '48px', xs: '32px' }}
       >
-        Buidl in LXDAO
+        Build in LXDAO
       </Typography>
       <Typography
         fontSize={{ md: '26px', xs: '18px' }}
@@ -25,7 +25,7 @@ const BuildInLXDAO = () => {
         textAlign="center"
         marginTop={2}
       >
-        We buidl Valuable things for Web3 in the Web3 way
+        We build Valuable things for Web3 in the Web3 way
       </Typography>
       <Grid
         marginTop={{
@@ -100,7 +100,7 @@ const BuildInLXDAO = () => {
               color="#646F7C"
               marginTop={2}
             >
-              Buidl for the community, maintained by the community, supervised
+              Build for the community, maintained by the community, supervised
               by the community.
             </Typography>
           </Box>
